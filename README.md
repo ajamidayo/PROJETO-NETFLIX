@@ -1,2 +1,2 @@
 # PROJETO-NETFLIX
-Projeto INteflix clone
+Recriando a Interface do Netflix - Bootcamp Dio.me
